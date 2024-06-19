@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "ejemplos",
+			"path": "../../certificacion/ejemplos"
+		},
+		{
+			"name": "HTML",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
